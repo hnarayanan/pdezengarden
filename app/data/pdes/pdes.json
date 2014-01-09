@@ -1,22 +1,22 @@
 [
     {
-	"name": "Laplace Equation in 2D",
+	"name": "Laplace Equation",
 	"thumbnail": "http://placehold.it/350x250/428bca/fff",
-	"snippet": "Harmonic functions from analytic functions"
+	"tagline": "The basis of potential theory"
     },
     {
 	"name": "Heat Equation",
 	"thumbnail": "http://placehold.it/350x250/428bca/fff",
-	"snippet": "Diffusion and smoothing"
+	"tagline": "Diffusion and smoothing"
     },
     {
 	"name": "Backward Heat Equation",
 	"thumbnail": "http://placehold.it/350x250/428bca/fff",
-	"snippet": "Ill-posed problems and regularization"
+	"tagline": "Ill-posed problems and regularization"
     },
     {
 	"name": "Constant Coefficient Linear Equations",
 	"thumbnail": "http://placehold.it/350x250/428bca/fff",
-	"snippet": "Fourier analysis and boundedness"
+	"tagline": "Fourier analysis and boundedness"
     }
 ]
