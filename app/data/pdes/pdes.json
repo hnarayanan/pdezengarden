@@ -12,11 +12,21 @@
     {
 	"name": "Backward Heat Equation",
 	"thumbnail": "http://placehold.it/350x250/428bca/fff",
-	"tagline": "Ill-posed problems and regularization"
+	"tagline": "Ill-posed problems and regularisation"
     },
     {
 	"name": "Constant Coefficient Linear Equations",
 	"thumbnail": "http://placehold.it/350x250/428bca/fff",
 	"tagline": "Fourier analysis and boundedness"
+    },
+    {
+	"name": "Biharmonic Equations",
+	"thumbnail": "http://placehold.it/350x250/428bca/fff",
+	"tagline": "Solid mechanics and creeping flow"
+    },
+    {
+	"name": "Minimal Surface Equation",
+	"thumbnail": "http://placehold.it/350x250/428bca/fff",
+	"tagline": "Mathematisation of a soap film"
     }
 ]
