@@ -8,15 +8,19 @@ angular.module('pdezengardenApp', [
 ])
   .config(function ($routeProvider) {
     $routeProvider
-      .when('/', {
-        templateUrl: 'views/main.html',
+      .when('/pdes', {
+        templateUrl: 'views/garden.html',
         controller: 'MainCtrl'
+      })
+      .when('/pdes/:pdeId', {
+        templateUrl: 'views/pde.html',
+        controller: 'PdeCtrl'
       })
       .when('/about', {
         templateUrl: 'views/about.html',
         controller: 'AboutCtrl'
       })
       .otherwise({
-        redirectTo: '/'
+        redirectTo: '/pdes'
       });
   });
