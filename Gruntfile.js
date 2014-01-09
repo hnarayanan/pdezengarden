@@ -351,7 +351,7 @@ module.exports = function (grunt) {
       },
       watch: {
         configFile: 'karma.conf.js',
-	autoWatch: true
+        autoWatch: true
       }
     }
   });
